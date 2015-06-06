@@ -1,1 +1,2 @@
-This is index page
+<!--This is index page -->
+<p>This is main page</p>
